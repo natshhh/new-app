@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return(
     <div id='navbar'>
-      <img className='logo' src="https://i.postimg.cc/MGpPTJRv/circle-cropped.png"/>
+      <img alt='logo' className='logo' src="https://i.postimg.cc/MGpPTJRv/circle-cropped.png"/>
       <ul className='navbox'>
         <li><a href='#home' className='nav-link'>Home</a></li>
         <li><a href='#about' className='nav-link'>About</a></li>

@@ -9,7 +9,7 @@ const About = () => {
       </div>
 
       <div>
-        <img className='about-image' src='https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/42570044_2133176843604001_5647047370425237504_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=973b4a&_nc_ohc=cXaYg2QJVrUAX8FJB_u&_nc_ht=scontent.ftbs5-2.fna&oh=ea42849d9de5b33a997d5b5c5ff4af71&oe=60A683A1'/>
+        <img alt='' className='about-image' src='https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/42570044_2133176843604001_5647047370425237504_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=973b4a&_nc_ohc=cXaYg2QJVrUAX8FJB_u&_nc_ht=scontent.ftbs5-2.fna&oh=ea42849d9de5b33a997d5b5c5ff4af71&oe=60A683A1'/>
       </div>
 
     </div>
